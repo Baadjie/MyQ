@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="radioGroup1" type="id">@id/radioGroup1</item>
+    <item name="radioGroup2" type="id">android:id="@id/radioGroup2"</item>
+    <item name="radioGroup3" type="id">android:id="@id/radioGroup3"</item>
+    <item name="radioGroup4" type="id">android:id="@id/radioGroup4"</item>
+    <item name="radioGroup5" type="id">android:id="@id/radioGroup5"</item>
+    <item name="radioGroup6" type="id">"@id/radioGroup6"</item>
+    <item name="radioGroup7" type="id">@id/radioGroup7</item>
+    <item name="radioGroup8" type="id">@id/radioGroup8</item>
+</resources>
